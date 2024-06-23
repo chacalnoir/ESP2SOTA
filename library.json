@@ -1,7 +1,7 @@
 {
   "name": "ESP2SOTA",
-  "keywords": "Self Sufficient, OTA, Update, ESP, ESP8266, ESP32, AP",
-  "description": "Async OTA (AP & Client WiFi modes) for ESP32/ESP8266 with no external dependencies (no jQuery needed)",
+  "keywords": "Self Sufficient, OTA, Update, ESP32, AP",
+  "description": "Async OTA (AP & Client WiFi modes) for ESP32 with no external dependencies (no jQuery needed)",
   "repository":
   {
     "type": "git",
