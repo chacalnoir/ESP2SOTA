@@ -1,12 +1,12 @@
 #ifndef ESP2SOTA_h
 #define ESP2SOTA_h
 
-#include "Arduino.h"
-#include "stdlib_noniso.h"
+#include <Arduino.h>
+#include <stdlib_noniso.h>
 
 
 #define HARDWARE "ESP32"
-#include "WebServer.h"
+#include <WebServer.h>
 
 class ESP2SOTAClass{
   public:

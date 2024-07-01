@@ -3,7 +3,6 @@
 
 #include <WiFi.h>
 #include <WiFiAP.h>
-#include <WebServer.h>
 /* INCLUDE ESP2SOTA LIBRARY */
 #include <ESP2SOTA.h>
 
