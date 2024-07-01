@@ -58,4 +58,4 @@ void ESP2SOTAClass::begin(WebServer *server)
   });
 }
 
-ESP2SOTAClass ESP2SOTA;
+ESP2SOTAClass MCUOTA;

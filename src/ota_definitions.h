@@ -1,5 +1,5 @@
-#ifndef OTA_DEFINITIONS_H
-#define OTA_DEFINITIONS_H
+#ifndef ESP2SOTA_OTA_DEFINITIONS_H
+#define ESP2SOTA_OTA_DEFINITIONS_H
 
 #include <WiFi.h>
 #include <WiFiAP.h>

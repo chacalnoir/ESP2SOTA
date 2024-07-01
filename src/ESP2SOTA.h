@@ -16,5 +16,5 @@ class ESP2SOTAClass{
   private:
     WebServer *_server;    
 };
-extern ESP2SOTAClass ESP2SOTA;
+extern ESP2SOTAClass MCUOTA;
 #endif
