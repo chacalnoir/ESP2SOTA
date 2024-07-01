@@ -7,7 +7,6 @@
 
 #define HARDWARE "ESP32"
 #include "WebServer.h"
-#include "Update.h"
 
 class ESP2SOTAClass{
   public:
