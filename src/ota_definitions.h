@@ -7,7 +7,7 @@
 /* INCLUDE ESP2SOTA LIBRARY */
 #include <ESP2SOTA.h>
 
-const char* ssid = "ESP2SOTA";
+const char* ssid = "SoftRobotOTA";
 const char* password = "softrobot";
 
 #endif
