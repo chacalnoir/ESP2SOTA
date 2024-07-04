@@ -3,7 +3,6 @@
 
 #include <WiFi.h>
 #include <WiFiAP.h>
-/* INCLUDE ESP2SOTA LIBRARY */
 #include <ESP2SOTA.h>
 
 const char* ssid = "SoftRobotOTA";
